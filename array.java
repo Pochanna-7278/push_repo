@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class arr
+class array
 {
 void largest(int a[])
 {
