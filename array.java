@@ -1,6 +1,6 @@
 import java.lang.*;
 import java.util.*;
-class array
+class arr
 {
 void largest(int a[])
 {
@@ -21,7 +21,7 @@ System.out.println(max+"is a maximum element");
 System.out.println(min+"is a minimum element");
 }
 }
-class arraytest
+class array
 {
 public static void main (String[] args)
 {
